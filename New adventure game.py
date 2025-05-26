@@ -66,7 +66,7 @@ def part_two():
     
     if path_choice == "left":
         print_with_delay("You take the left path and stumble upon a mystical lake.\n", 0.03)
-        print_with_delay("You notice a boat on the shoreand decide to take it across the lake.\n", 0.03)
+        print_with_delay("You notice a boat on the shore and decide to take it across the lake.\n", 0.03)
         print_with_delay("As you row across the tranquil waters, you spot a hidden treasure island.\n", 0.03)
         print_with_delay("Do you want to search for treasure? (yes or no):", 0.03)
         
